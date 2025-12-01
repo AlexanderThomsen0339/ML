@@ -1,56 +1,52 @@
-# Machine Learning Portfolio
+# 🧠 Machine Learning Portfolio
 
-Welcome to my Machine Learning Portfolio!  
-This repository demonstrates my understanding of different types of ML models, including how I analyze data, select models, and evaluate results.
+Welcome! This repository showcases my skills in building and analyzing ML models across different types of problems.
 
----
-
-## 🔹 Purpose
-The goal of this portfolio is to showcase:
-- Understanding of different ML types: supervised, unsupervised, and deep learning.
-- Ability to choose the appropriate model for various problem types.
-- Clear documentation and explanation of *why* and *how* models are used.
+[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ---
 
-## 📂 Repository Structure
+## 🔹 Portfolio Overview
 
-- `supervised/` – Regression and classification examples
-- `unsupervised/` – Clustering and dimensionality reduction examples
-- `deep_learning/` – Neural networks (CNN, RNN) examples
-- `data/` – Small or synthetic datasets
-- `notebooks/` – Interactive notebooks with explanations and visualizations
+Quick links to main categories:
+
+| Category | Description | Example |
+|----------|-------------|---------|
+| **Supervised Learning** | Regression & Classification | [Notebooks](./notebooks/supervised) |
+| **Unsupervised Learning** | Clustering & Dimensionality Reduction | [Notebooks](./notebooks/unsupervised) |
+| **Deep Learning** | Neural Networks, CNN, RNN | [Notebooks](./notebooks/deep_learning) |
 
 ---
 
-## 🚀 Example Projects
+## 🚀 Example Highlights
 
-### Supervised Learning
-- **Regression**: Predicting house prices (metrics: MSE, RMSE)  
-- **Classification**: Iris dataset classification (metrics: Accuracy, Confusion Matrix)
+### Supervised
+- **Regression:** Predicting house prices – MSE, RMSE  
+- **Classification:** Iris dataset – Accuracy, Confusion Matrix
 
-### Unsupervised Learning
-- **Clustering**: KMeans on synthetic dataset  
-- **Dimensionality Reduction**: PCA for visualization and analysis
+### Unsupervised
+- **Clustering:** KMeans on synthetic dataset  
+- **Dimensionality Reduction:** PCA visualization
 
 ### Deep Learning
-- **Feedforward Neural Network** for regression/classification  
-- **Convolutional Neural Network (CNN)** for image data  
-- **Recurrent Neural Network (RNN)** for sequential data
+- **Feedforward Neural Network** – Regression/Classification  
+- **CNN** – Image data  
+- **RNN** – Sequential data
 
 ---
 
 ## 📊 Features
 
-- Clear explanation of each model and why it was chosen
-- Input (`X`) and output (`y`) clearly defined
-- Metrics and plots for evaluation
-- Short “lessons learned” or notes about model behavior
+- Clear explanation of *why* models are used  
+- Input (`X`) and output (`y`) clearly defined  
+- Metrics, plots, and visualizations included  
+- Lessons learned & notes about model behavior  
 
 ---
 
-## ⚡ How to Use
+## ⚡ Quick Start
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/ml-portfolio.git
+1. Clone the repo:
+```bash
+git clone https://github.com/yourusername/ml-portfolio.git
